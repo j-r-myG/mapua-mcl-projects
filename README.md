@@ -17,5 +17,5 @@
 
 # Naruto Game — Game Development First Project (2024)
 - **Description**: First project in Java. A simple game of avoiding an enemy while collecting points.
-- **Repo**: [Little Chimken](https://github.com/j-r-myG/firstGame)
+- **Repo**: [firstgame](https://github.com/j-r-myG/firstGame)
 - **Screenshot**: ![firstgame Screenshot](https://github.com/j-r-myG/mapua-mcl-projects/blob/7a6aa735097214da38351a76a27bbc61c4b724b5/images/first-game.png)
