@@ -1,5 +1,5 @@
 # These are some of my notable projects from Mapúa Malayan Colleges Laguna
-
+- Also, here's the link to my portfolio: (https://portfolio-jeremy-genatos-projects.vercel.app)
 # SEIR-Viz — CS Thesis (2024–2025)
 - **Description**: A Python-based web application that gives predictions on the spread of infectious diseases in the city. This web application utilized the Susceptible, Exposed, Infectious, Removed (S-E-I-R) model to give accurate predictions on how a disease will spread throughout a city.
 - **Repo**: [SEIR-Viz](https://github.com/JonPeterP/SEIR-Viz)
