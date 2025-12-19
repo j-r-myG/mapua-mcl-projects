@@ -1,9 +1,15 @@
 # These are some of my notable projects from Mapúa Malayan Colleges Laguna
 - Also, here's the link to my portfolio: (https://portfolio-jeremy-genatos-projects.vercel.app)
+
 # SEIR-Viz — CS Thesis (2024–2025)
 - **Description**: A Python-based web application that gives predictions on the spread of infectious diseases in the city. This web application utilized the Susceptible, Exposed, Infectious, Removed (S-E-I-R) model to give accurate predictions on how a disease will spread throughout a city.
 - **Repo**: [SEIR-Viz](https://github.com/j-r-myG/SEIR-Viz_fork.git)
 - **Screenshot**: ![SEIR-Viz Screenshot](https://github.com/j-r-myG/mapua-mcl-projects/blob/7a6aa735097214da38351a76a27bbc61c4b724b5/images/SEIR-viz.png)
+
+# Zerine Dash — Help with another Thesis (2025)
+- **Description**: A Python-based web application that provides descriptive statistics of seizure patients
+- **Repo**: [ZerineDash](https://github.com/j-r-myG/ZerineDash_fork.git)
+- **Screenshot**: ![SEIR-Viz Screenshot](https://github.com/j-r-myG/mapua-mcl-projects/blob/511cade5c45fccdfd3cd37f08358ba96241e1bfb/images/zerine.png)
 
 # Information Management System — Software Engineering Project (2023-2024)
 - **Description**: An Information Management System that aimed to help a bus company accurately keep track of their inventory. The Management System aimed to address operational inefficiencies, reduce downtime, and mitigate unexpected breakdowns.
