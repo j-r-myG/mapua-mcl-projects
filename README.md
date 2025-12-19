@@ -7,7 +7,7 @@
 - **Screenshot**: ![SEIR-Viz Screenshot](https://github.com/j-r-myG/mapua-mcl-projects/blob/7a6aa735097214da38351a76a27bbc61c4b724b5/images/SEIR-viz.png)
 
 # Zerine Dash — Help with another Thesis (2025)
-- **Description**: A Python-based web application that provides descriptive statistics of seizure patients
+- **Description**: A Python-based web application that provides descriptive statistics of seizure patients.
 - **Repo**: [ZerineDash](https://github.com/j-r-myG/ZerineDash_fork.git)
 - **Screenshot**: ![SEIR-Viz Screenshot](https://github.com/j-r-myG/mapua-mcl-projects/blob/511cade5c45fccdfd3cd37f08358ba96241e1bfb/images/zerine.png)
 
